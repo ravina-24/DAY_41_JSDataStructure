@@ -9,6 +9,7 @@ while (count <=maxcount)
   count++;
 }
 
+
 ArrayofNum.sort();
 console.log("The second largest element is =" +  ArrayofNum[1]);
 console.log("The second smallest element is =" + ArrayofNum[8]);
